@@ -22,7 +22,7 @@ This Python project demonstrates how to securely hide and reveal messages within
 ## Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/secure-steg.git
+   git clone https://github.com/MohammadArslanKana/secure-steg.git
    cd secure-steg
 Install the required libraries:
 
